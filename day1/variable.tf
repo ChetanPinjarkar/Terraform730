@@ -1,7 +1,7 @@
 variable "ami_id" {
   description = "inserting ami value to maint.tf"
   type        = string
-  default     = "ami-0b7207e48d1b6c06f"
+  default     = "ami-00bb6a80f01f03502"
 
 }
 variable "type" {
